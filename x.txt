@@ -1,0 +1,14 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 924D-8CAD
+
+ Directory of C:\Temp\wk5\ex1
+
+23/02/2026  12:57    <DIR>          .
+23/02/2026  12:43    <DIR>          ..
+23/02/2026  12:46    <DIR>          .github
+23/02/2026  12:27               661 PerformanceRating.py
+23/02/2026  12:27             2,286 PerformanceRating_test.py
+23/02/2026  12:46                14 requirements.txt
+23/02/2026  12:57                 0 x.doc
+               4 File(s)          2,961 bytes
+               3 Dir(s)  225,148,379,136 bytes free
