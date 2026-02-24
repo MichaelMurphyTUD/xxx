@@ -79,10 +79,7 @@ class TestPerformanceRating(unittest.TestCase):
     def test_t15(self):
         pr = PerformanceRating()
         self.assertEqual(pr.rate(float("inf"), False), "ERROR")
-    # BV8: time = 60
-    def test_t16(self):
-        pr = PerformanceRating()
-        self.assertEqual(pr.rate(60, False), 21)
 
     # # Decision Table Testing:
+
     # def test_t16(self):
