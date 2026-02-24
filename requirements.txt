@@ -1,1 +1,1 @@
-numpy==xx
+numpy==1.22.1 
